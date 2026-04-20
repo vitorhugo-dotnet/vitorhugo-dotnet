@@ -46,8 +46,8 @@ Atualmente, estou expandindo meus horizontes com **Engenharia de IA** e **Comput
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorhugo1207&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugo1207&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorhugo-java&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugo-java&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 ---
