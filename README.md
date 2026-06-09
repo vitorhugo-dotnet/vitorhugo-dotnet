@@ -1,75 +1,170 @@
-# 👋 Olá, eu sou o Hugo!
+<p align="center">
+  <!-- Substitua pela sua banner customizada -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=200&section=header&text=Hugo&fontSize=60&fontColor=C792EA&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Java%20%2B%20Spring%20Boot&descAlignY=58&descAlign=50" width="100%" alt="Banner" />
+</p>
 
-Desenvolvedor Fullstack com foco principal em **Java**, **React** e **Mobile (Flutter)**. Especialista em criar soluções robustas para os setores de saúde e educação, integrando sistemas complexos e garantindo alta performance e segurança.
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=Java+21+%7C+Spring+Boot+%7C+Fullstack;Building+backends+that+don%27t+break+at+3am;React+%7C+Angular+%7C+Flutter+%7C+Go;Clean+Architecture+%C2%B7+SOLID+%C2%B7+Docker" alt="Typing SVG" />
+  </a>
+</p>
 
-Atualmente, estou expandindo meus horizontes com **Engenharia de IA** e **Computação Forense** para elevar o nível técnico dos meus projetos.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vitorhugo-java&style=for-the-badge&color=9984D4&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- <a href="https://espacogeek.com">
+    <img src="https://img.shields.io/badge/EspaçoGeek-Visit-592E83?style=for-the-badge&logo=vercel&logoColor=F5EFFF" />
+  </a> -->
+</p>
 
----
+─── . ─── . ─── . ─── . ─── . ─── . ─── . ─── . ─── . ─── . ─── . ─── . ─── . ─── . ─── . ───
 
-### 🚀 Tecnologias e Ferramentas
 
-**Principais (Focus)**
-<br/>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<h2 align="center">🌌 src/AboutMe.java 🌌</h2>
 
-**Banco de Dados & Infra**
-<br/>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
-[![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
+```java
+public class Hugo implements Developer {
 
-**IA**
-<br/>
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+    String name      = "Hugo";
+    String role      = "Fullstack Developer · Java Ecosystem";
+    String location  = "Bauru, SP — Brasil 🇧🇷";
+    String passion   = "Clean code, distributed systems e coisas que sobrevivem ao deploy";
 
-**Ferramentas Auxiliares**
-<br/>
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
-[![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#)
-[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)](#)
-[![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-[![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=fff)](#) 
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
-[![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff)](#)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+    String[] building    = { "EspaçoGeek", "Applywell", "OrganizerV2" };
+    String[] stack       = { "Java 21 · Spring Boot · PostgreSQL", "React · Angular · Flutter · Go", "Docker · Prometheus · Grafana · Loki" };
+    String[] architecture = { "SOLID", "Clean Architecture", "MVSC" };
+    String[] studying    = { "Pós-graduação em IA", "Pós-graduação em Forense Computacional", "日本語" };
+    String[] openTo      = { "CLT Remote", "Mid-Senior Java", "Fullstack" };
 
----
+    String motto = "Build for maintainability, optimize for sanity";
+}
+```
 
-### 🛠️ Projetos e Atividades
 
-- **EspaçoGeek:** Meu projeto autoral para gestão de conteúdo geek (Spring Boot + GraphQL + Next.js).
-- **JobTrackerApply:** Projeto para organizar aplicações em vagas.
+<h2 align="center">🪐 src/TechStack.java 🪐</h2>
 
----
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><br>Java 21</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/><br>Spring Boot</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48"/><br>Go</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"/><br>Flutter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48"/><br>Angular</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48"/><br>Redis</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48"/><br>Grafana</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48"/><br>Prometheus</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br>Linux</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="48"/><br>Gradle</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48"/><br>Dart</td>
+  </tr>
+  <tr>
+    
+  </tr>
+</table>
 
-### 🎓 Formação & Evolução
 
-- **Análise e Desenvolvimento de Sistemas** (Graduado)
-- **Pós-graduação em IA e Computação Forense** (Em progresso ⚡)
-- **Estudando Japonês** (Hiragana/Katakana/Kanji) para expansão cultural e profissional.
+<h2 align="center">☄️ src/OnMyRadar.java ☄️</h2>
 
----
+<table align="center">
+  <tr>
+    <td>🤖 IA Generativa & MCP (Model Context Protocol)</td>
+    <td>🔬 Pós-grad em Forense Computacional</td>
+    <td>📡 Observabilidade com Grafana/Loki/Prometheus</td>
+  </tr>
+  <tr>
+    <td>⚡ GraalVM Native Image & Performance</td>
+    <td>🔐 Segurança de Sistemas & Análise Forense</td>
+    <td>🧩 DDD · Arquitetura Limpa · CQRS</td>
+  </tr>
+  <tr>
+    <td>🇯🇵 Japonês (estudando sério, sim)</td>
+    <td>🌌 Física Quântica & Astrofísica (hobbyist)</td>
+    <td>🐳 Self-hosting · VPS · Docker Compose</td>
+  </tr>
+</table>
 
-### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-alves-ferreira-824057233/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorhugo1207@gmail.com)
+<h2 align="center">🔭 src/Stats.java 🔭</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stat-taupe.vercel.app?user=vitorhugo-java&theme=catppuccin_mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stat-lemon.vercel.app/api?username=vitorhugo-java&theme=catppuccin_mocha&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<h2 align="center">🌠 src/Contributions.java 🌠</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorhugo-java/vitorhugo-java/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorhugo-java/vitorhugo-java/output/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vitorhugo-java/vitorhugo-java/output/github-snake.svg" />
+  </picture>
+</p>
+
+
+<h2 align="center">🛸 src/WhoAmI.java 🛸</h2>
+
+```bash
+~/hugojava $ cat about.sh
+
+NAME="Hugo"
+LOCATION="Bauru, SP — Brasil 🇧🇷"
+
+INTERESTS=(
+  "🎌 Anime, Mangá & Light Novels"
+  "⛩️ Estudando Japonês (がんばります)"
+  "🎸 Metal e seus subgêneros infinitos"
+  "🔭 Astronomia, Astrofísica & Física Quântica"
+  "📖 Nietzsche, Camus e ideias que não saem da cabeça"
+)
+
+FACTS=(
+  "☕ Café não é opcional — é infraestrutura crítica"
+  "🐛 20% codando, 80% descobrindo por que a JVM discordou"
+  "🚀 Se não subiu pro prod, tecnicamente não existe"
+  "🌌 Acredita que o universo é grande demais pra a gente ficar escrevendo código ruim"
+)
+```
+
+
+<h2 align="center">💫 src/Quote.java 💫</h2>
+
+<p align="center">
+  <em><strong>"É preciso ter caos dentro de si para dar à luz uma estrela dançante."</strong></em>
+  <br/>
+  <sub>— Friedrich Nietzsche</sub>
+</p>
+
+
+<h2 align="center">🚀 src/ContactMe.java 🚀</h2>
+
+<p align="center">
+  <a href="mailto:hugoalves.java@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F5EFFF?style=for-the-badge&logo=gmail&logoColor=%23230C33" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/hugojava">
+    <img src="https://img.shields.io/badge/LinkedIn-9984D4?style=for-the-badge&logo=linkedin&logoColor=%23F5EFFF" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/vitorhugo-java">
+    <img src="https://img.shields.io/badge/GitHub-592E83?style=for-the-badge&logo=github&logoColor=%23F5EFFF" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d1117&height=120&section=footer" width="100%"/>
+</p>
