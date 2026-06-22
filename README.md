@@ -31,7 +31,7 @@ public class Hugo implements Developer {
     String passion   = "Clean code, distributed systems e coisas que sobrevivem ao deploy";
 
     String[] building    = { "EspaçoGeek", "Applywell", "OrganizerV2" };
-    String[] stack       = { "Java 21 · Spring Boot · PostgreSQL", "React · Angular · Flutter · Go", "Docker · Prometheus · Grafana · Loki" };
+    String[] stack       = { "Java 21 · Spring Boot · PostgreSQL", ".NET · C# · React · Angular · Flutter · Go", "Docker · Prometheus · Grafana · Loki" };
     String[] architecture = { "SOLID", "Clean Architecture", "MVSC" };
     String[] studying    = { "Pós-graduação em IA", "Pós-graduação em Forense Computacional", "日本語" };
     String[] openTo      = { "CLT Remote", "Mid-Senior Java", "Fullstack" };
@@ -53,6 +53,7 @@ public class Hugo implements Developer {
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48"/><br>Angular</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48"/><br>.NET</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br>PostgreSQL</td>
@@ -63,6 +64,7 @@ public class Hugo implements Developer {
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br>Linux</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="48"/><br>Gradle</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48"/><br>Dart</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/><br>C#</td>
   </tr>
   <tr>
     
