@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vitorhugo-java&style=for-the-badge&color=9984D4&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vitorhugo-dotnet&style=for-the-badge&color=9984D4&label=PROFILE+VIEWS" alt="Profile Views" />
   <!-- <a href="https://espacogeek.com">
     <img src="https://img.shields.io/badge/EspaçoGeek-Visit-592E83?style=for-the-badge&logo=vercel&logoColor=F5EFFF" />
   </a> -->
@@ -126,10 +126,10 @@ public sealed class Hugo : FullStackDeveloper
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-streak-stat-taupe.vercel.app?user=vitorhugo-java&theme=catppuccin_mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+        <img src="https://github-readme-streak-stat-taupe.vercel.app?user=vitorhugo-dotnet&theme=catppuccin_mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stat-lemon.vercel.app/api?username=vitorhugo-java&theme=catppuccin_mocha&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+        <img src="https://github-readme-stat-lemon.vercel.app/api?username=vitorhugo-dotnet&theme=catppuccin_mocha&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
       </td>
     </tr>
   </table>
@@ -140,9 +140,9 @@ public sealed class Hugo : FullStackDeveloper
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorhugo-java/vitorhugo-java/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorhugo-java/vitorhugo-java/output/github-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vitorhugo-java/vitorhugo-java/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorhugo-dotnet/vitorhugo-dotnet/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorhugo-dotnet/vitorhugo-dotnet/output/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vitorhugo-dotnet/vitorhugo-dotnet/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -192,7 +192,7 @@ FACTS=(
   <a href="https://www.linkedin.com/in/hugojava">
     <img src="https://img.shields.io/badge/LinkedIn-9984D4?style=for-the-badge&logo=linkedin&logoColor=%23F5EFFF" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/vitorhugo-java">
+  <a href="https://github.com/vitorhugo-dotnet">
     <img src="https://img.shields.io/badge/GitHub-592E83?style=for-the-badge&logo=github&logoColor=%23F5EFFF" alt="GitHub" />
   </a>
 </p>
